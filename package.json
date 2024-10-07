@@ -1,0 +1,25 @@
+{
+  "name": "buggy-system",
+  "version": "1.0.0",
+  "description": "Buggy System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niyodusengaclement/buggy-system.git"
+  },
+  "author": "NIYODUSENGA Clement",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niyodusengaclement/buggy-system/issues"
+  },
+  "homepage": "https://github.com/niyodusengaclement/buggy-system#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "mysql": "^2.18.1"
+  }
+}
